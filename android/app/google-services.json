@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65809930829",
+    "firebase_url": "https://firstfutterfire.firebaseio.com",
+    "project_id": "firstfutterfire",
+    "storage_bucket": "firstfutterfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65809930829:android:40f483c1d9a945e7cf9a04",
+        "android_client_info": {
+          "package_name": "com.fortune.quick_bee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65809930829-rr33ngidktfphpm6bodt2dh1fg09oreg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoaEJSpaA1ABPC2opUshHiWXOqMCbFrqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65809930829-rr33ngidktfphpm6bodt2dh1fg09oreg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
